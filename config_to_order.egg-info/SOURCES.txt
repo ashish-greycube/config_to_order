@@ -6,6 +6,7 @@ setup.py
 config_to_order/__init__.py
 config_to_order/hooks.py
 config_to_order/modules.txt
+config_to_order/patches.txt
 config_to_order.egg-info/PKG-INFO
 config_to_order.egg-info/SOURCES.txt
 config_to_order.egg-info/dependency_links.txt
